@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "4_Argon_assault",
+"dataUrl": "3D_Shooting.data.unityweb",
+"wasmCodeUrl": "3D_Shooting.wasm.code.unityweb",
+"wasmFrameworkUrl": "3D_Shooting.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
