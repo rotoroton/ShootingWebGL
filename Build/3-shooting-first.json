@@ -1,0 +1,13 @@
+{
+"companyName": "rotoroton",
+"productName": "3D-Shooting-game",
+"dataUrl": "3-shooting-first.data.unityweb",
+"wasmCodeUrl": "3-shooting-first.wasm.code.unityweb",
+"wasmFrameworkUrl": "3-shooting-first.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
